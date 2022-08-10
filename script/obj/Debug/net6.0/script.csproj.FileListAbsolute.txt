@@ -1,0 +1,15 @@
+C:\Users\krist\source\repos\script\bin\Debug\net6.0\script.exe
+C:\Users\krist\source\repos\script\bin\Debug\net6.0\script.deps.json
+C:\Users\krist\source\repos\script\bin\Debug\net6.0\script.runtimeconfig.json
+C:\Users\krist\source\repos\script\bin\Debug\net6.0\script.dll
+C:\Users\krist\source\repos\script\bin\Debug\net6.0\script.pdb
+C:\Users\krist\source\repos\script\obj\Debug\net6.0\script.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\script\obj\Debug\net6.0\script.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\script\obj\Debug\net6.0\script.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\script\obj\Debug\net6.0\script.AssemblyInfo.cs
+C:\Users\krist\source\repos\script\obj\Debug\net6.0\script.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\script\obj\Debug\net6.0\script.dll
+C:\Users\krist\source\repos\script\obj\Debug\net6.0\refint\script.dll
+C:\Users\krist\source\repos\script\obj\Debug\net6.0\script.pdb
+C:\Users\krist\source\repos\script\obj\Debug\net6.0\script.genruntimeconfig.cache
+C:\Users\krist\source\repos\script\obj\Debug\net6.0\ref\script.dll
